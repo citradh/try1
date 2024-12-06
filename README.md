@@ -1,2 +1,3 @@
-# try1
-061224
+# Hello-world
+This is my first repository.
+I am looking forward to learning more.
